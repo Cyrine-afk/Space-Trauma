@@ -1,2 +1,2 @@
 # Space-Trauma
-school project
+A game produced by JJS (Junior Judges Studios)
