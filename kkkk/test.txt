@@ -1,0 +1,226 @@
+1800
+0
+0
+6.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+6.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+4.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou3.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou1.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou4.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=1
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=2
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=1
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=2
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=1
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=2
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=1
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=2
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou1.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou2.png
+run=1
+s= 0
+r=3
+0
+0
+./enigmes/mimou1.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou1.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0
+1800
+0
+0
+./enigmes/mimou2.png
+run=0
+s= 0
+r=0

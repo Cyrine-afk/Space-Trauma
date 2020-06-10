@@ -1,0 +1,6 @@
+cards 
+worlock 
+witch 
+tarot 
+magic 
+spell 
